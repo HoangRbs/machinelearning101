@@ -1,1 +1,3 @@
-/german-traffic-signs
+/german-traffic-signs/*
+/selfDrivingCar_datasets/IMG/*
+/selfDrivingCar_datasets/driving_log.csv

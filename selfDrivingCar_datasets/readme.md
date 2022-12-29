@@ -1,0 +1,1 @@
+to get this data, record in udacity self driving car software
